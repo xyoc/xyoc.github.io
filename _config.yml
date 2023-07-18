@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Dino"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : ""
+  bio    : "Nothing here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
