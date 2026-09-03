@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "个人随笔"
 date: 2026-09-03T22:05:30-06:00
 categories:
   - blog
