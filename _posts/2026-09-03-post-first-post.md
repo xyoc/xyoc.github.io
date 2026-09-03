@@ -1,8 +1,8 @@
 ---
-title: "个人随笔"
-date: 2026-09-03T22:05:30-06:00
+title: "个人随笔1"
+date: 2026-09-03T22:05:30
 categories:
-  - blog
+  - Blog
 tags:
   - 随笔
 ---
